@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alexander.costa0101@gmail.com
+	name = Alexander Costa
